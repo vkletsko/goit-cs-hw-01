@@ -4,8 +4,6 @@
 
 ### Master of degree from university
 
-### Візуалізація
-
 ## Завдання1
 
 ```bash
